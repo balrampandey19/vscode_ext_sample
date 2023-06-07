@@ -1,6 +1,4 @@
-# cocoa Sample VS code Ext
-
-# Sample Visual Studio Code Extension
+# cocoa Sample VS code Extension
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%5E1.60.0-blue?logo=visual-studio-code)
 
@@ -19,7 +17,7 @@ This is a sample Visual Studio Code extension that demonstrates some basic funct
 
 1. Open a file in Visual Studio Code.
 2. Use the command palette (Ctrl+Shift+P or Cmd+Shift+P on macOS).
-3. Search for "Sample Extension: Command".
+3. Search for "cocoa".
 4. Select the desired command to execute.
 
 ## Configuration
