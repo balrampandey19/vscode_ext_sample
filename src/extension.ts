@@ -19,6 +19,11 @@ export function activate(context: vscode.ExtensionContext) {
 		vscode.window.showInformationMessage('Hello World from cocoa!');
 	});
 
+	// Open extern Ui Vs code extension api
+
+	vscode.env.openExternal(vscode.Uri.parse("https://www.google.com/search?client=firefox-b-d&q=vscode"));
+
+
 	context.subscriptions.push(disposable);
 }
 

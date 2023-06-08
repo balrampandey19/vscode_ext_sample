@@ -15,7 +15,7 @@
     "commands": [
       {
         "command": "cocoa.helloWorld",
-        "title": "Hello World"
+        "title": "cocoa"
       }
     ]
   },
